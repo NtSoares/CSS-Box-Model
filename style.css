@@ -1,0 +1,22 @@
+div {
+    background-color: red;
+    font-size: 28px;
+    color: white;
+    text-align: center;
+
+    /* content: width (largura) & height (altura) */
+    width: 500px;
+    height: 500px;
+
+    /* padding: preenchimento */
+    padding: 25px;
+
+    /* border: borda */
+    border-left: 10px dotted rgba(255, 255, 255, 0.5);
+
+    /* margin: margem */
+    margin: 0 auto;
+
+    /* mudar limites da caixa */
+    box-sizing: border-box;
+}
